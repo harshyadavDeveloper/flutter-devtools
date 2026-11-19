@@ -13,11 +13,11 @@ function About() {
         </h1>
 
         <p className="mb-4 text-gray-700 dark:text-gray-300 leading-relaxed">
-          Hi, I’m <span className="font-semibold text-indigo-600 dark:text-indigo-400">Harsh</span> —
-          a full-stack mobile and web developer with <b>2.6 years of experience</b> 
-          building modern, scalable applications. I work with technologies like 
-          <b> Flutter, React, Node.js, Express</b> and more.
-        </p>
+  Hi, I’m <span className="font-semibold text-indigo-600 dark:text-indigo-400">Harsh</span> —
+  a full-stack mobile and web developer passionate about building modern,
+  scalable, and user-friendly applications. I specialize in technologies like
+  <b> Flutter, React, Node.js, Express</b> and more.
+</p>
 
         <p className="mb-4 text-gray-700 dark:text-gray-300 leading-relaxed">
           I created this website as a <b>one-stop solution</b> for multiple
